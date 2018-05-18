@@ -10,3 +10,5 @@ Ported from Javascript code created by Daniel Shiffman on the Coding Train YouTu
 Coding Train repository and code can be found here
 
 <https://github.com/CodingTrain/QuadTree>
+
+Download and run the quadtree_test.pde code in the quadtree_test folder.
